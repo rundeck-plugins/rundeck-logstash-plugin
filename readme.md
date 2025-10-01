@@ -1,3 +1,7 @@
+# Deprecated
+
+This repository is no longer maintained and is only avaiable for historical example purposes.  It will be deleted at some point in the future.
+
 # Rundeck Logstash Plugin
 
 This is a simple Rundeck streaming Log Writer plugin that will pipe all log output to a Logstash server by writing Json to a TCP port. *For Rundeck version 1.6.0 or later.*
